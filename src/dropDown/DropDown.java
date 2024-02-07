@@ -25,8 +25,6 @@ public class DropDown {
 		
 		Select sct=new Select(drop);
 		List<WebElement> op=sct.getOptions();
-		List<WebElement> a = sct.getAllSelectedOptions();
-		System.out.println(a);
 		for(WebElement d:op) {
 			System.out.println(d.getText());
 		}
