@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T23:43:14 IST" name="Default suite" finished-at="2023-12-19T23:43:36 IST" duration-ms="22189">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T23:43:14 IST" name="Default test" finished-at="2023-12-19T23:43:36 IST" duration-ms="22189">
+      <class name="mavenProject.ExcelData">
+        <test-method signature="PropertyData()[pri:0, instance:mavenProject.ExcelData@611889f4]" started-at="2023-12-19T23:43:14 IST" name="PropertyData" finished-at="2023-12-19T23:43:36 IST" duration-ms="22067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PropertyData -->
+      </class> <!-- mavenProject.ExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
